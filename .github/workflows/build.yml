@@ -30,7 +30,7 @@ jobs:
         arch:
           - arm_cortex-a7
         sdk:
-          - openwrt-24.10.1
+          - openwrt-22.03
 
     steps:
       - uses: actions/checkout@v4
